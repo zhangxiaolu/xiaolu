@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## ok,我也迁移到了Github
 
-You can use the [editor on GitHub](https://github.com/zhangxiaolu/xiaolu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+实在是没有什么好招了。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 住人篱下
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+姑且就这么下来吧。
 
 ```markdown
 Syntax highlighted code block
